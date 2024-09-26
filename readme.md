@@ -1,0 +1,1 @@
+My Fullstack project big shoutout to Hitesh Chaudhary.

@@ -1,0 +1,11 @@
+{
+  "name": "chaivsbackend",
+  "version": "1.0.0",
+  "description": "My Fullstack project big shoutout to Hitesh Chaudhary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Bhosale",
+  "license": "ISC"
+}
